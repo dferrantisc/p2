@@ -1,5 +1,18 @@
 <?php
 
+    $masqli = new mysqli('host','root','pass','p2') or die(mysqli_error($mysqli));
+
+    if(){
+
+    }else{
+        
+    }
+
+
+?>
+
+<?php
+
     require("conec.php");
 
 
